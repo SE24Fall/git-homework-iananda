@@ -1,1 +1,3 @@
-This repository is for learning git commands
+This repository is for git homework
+![Alt text](image.png)
+
